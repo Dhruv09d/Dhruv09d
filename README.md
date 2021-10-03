@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv09d&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv09d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv09d" alt="dhruv09d" /></a> </p>
 
-- 🔭 I’m curreI'm currently persuing B.Tect (CSE) fromntly working on [AKTU](https://aktu.ac.in/)
+- 🔭 I'm currently persuing B.Tect (CSE) fromntly working on [AKTU](https://aktu.ac.in/)
 
 - 🌱 I’m currently learning **Android Native(Kotlin)**
 
