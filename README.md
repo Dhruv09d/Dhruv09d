@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dhruvdagar1999@gmail.com**
 
-- ⚡ Hobby: **I love to binge watch and listen to music.**
+- ⚡ Hobby: **I love binge watching and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
