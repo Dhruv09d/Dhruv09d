@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv09d&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv09d" /> </p>
 
 
-- 🔭 I'm currently persuing B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
-
-- 🌱 I’m currently learning **react (js, ts)**
+- 🌱 I’m working on **react (js, ts)**
 
 - 💬 Ask me about **any tech stack**
 
