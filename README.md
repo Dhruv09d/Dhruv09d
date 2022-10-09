@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently persuing B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
 
-- 🌱 I’m currently learning **Android Native(Kotlin)**
+- 🌱 I’m currently learning **react (js, ts)**
 
 - 💬 Ask me about **any tech stack**
 
