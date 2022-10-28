@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Singh</h1>
-<h3 align="center">I'm a Student, Developer, and Friend!!</h3>
+<h3 align="center">I'm a Developer, and Friend!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv09d&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv09d" /> </p>
 
